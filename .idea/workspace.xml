@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9347e4b-1e06-440e-8ea9-4eec51d46c9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/10_apps_course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_EngishDict/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_EngishDict/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/image_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/image_ingest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/map1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/.placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190322_150358.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190322_150420.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190322_150431.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190322_192806.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190323_154557.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190323_154624.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190323_160121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190323_161526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190323_161552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190323_172641.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190325_122317.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190325_131633.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190325_131651.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190325_174602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190326_094406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190326_150739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190326_150916.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190326_150931.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190326_191412.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190328_172328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_121452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_121720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_121845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_121848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_125152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_125222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_165903.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190329_165911.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190331_134940.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190331_134943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190331_134947.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190331_135831.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190331_135835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190331_135908.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/20190331_135909.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/660.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/695.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/pics/downsampled/760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_webmap/world.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_blocker/hosts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_blocker/temp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_blocker/website_blocker.pyw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_website/script1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_website/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_website/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_website/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_website/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/pandas/pandas_practice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/pandas/supermarkets-commas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/pandas/supermarkets-semi-colons.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/pandas/supermarkets.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/pandas/supermarkets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/pandas/supermarkets.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/sql/sql_1.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c2pk0QiGHmQIdoqGZ50fQpOG8v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4_website/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\4_website\static\css" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\2_webmap" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\2_webmap\pics" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\Exercises\pandas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\4_website\templates" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\2_webmap\pics" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.website_blocker">
+    <configuration name="downsample (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_apps_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_webmap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_webmap/downsample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_ingest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_apps_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_webmap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_webmap/image_ingest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_apps_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_webmap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_webmap/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="set_visited" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_apps_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_webmap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_webmap/set_visited.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="website_blocker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_apps_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_blocker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ryan\PycharmProjects\10_apps_course\3_blocker\website_blocker.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.website_blocker" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.image_ingest" />
+        <item itemvalue="Python.set_visited" />
+        <item itemvalue="Python.downsample (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9347e4b-1e06-440e-8ea9-4eec51d46c9b" name="Default Changelist" comment="" />
+      <created>1589736681602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589736681602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
