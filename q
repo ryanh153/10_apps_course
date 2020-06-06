@@ -1,0 +1,39 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .idea/10_apps_course.iml
+#	new file:   .idea/inspectionProfiles/profiles_settings.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/vcs.xml
+#	new file:   .idea/workspace.xml
+#	new file:   1_EngishDict/data.json
+#	new file:   1_EngishDict/main.py
+#	new file:   2_webmap/image_data.json
+#	new file:   2_webmap/image_ingest.py
+#	new file:   2_webmap/main.py
+#	new file:   2_webmap/map1.html
+#	new file:   2_webmap/world.json
+#	new file:   3_blocker/hosts
+#	new file:   3_blocker/temp
+#	new file:   3_blocker/website_blocker.pyw
+#	new file:   4_website/script1.py
+#	new file:   4_website/static/css/main.css
+#	new file:   4_website/templates/about.html
+#	new file:   4_website/templates/home.html
+#	new file:   4_website/templates/layout.html
+#	new file:   Exercises/pandas/pandas_practice1.py
+#	new file:   Exercises/pandas/supermarkets-commas.txt
+#	new file:   Exercises/pandas/supermarkets-semi-colons.txt
+#	new file:   Exercises/pandas/supermarkets.csv
+#	new file:   Exercises/pandas/supermarkets.json
+#	new file:   Exercises/pandas/supermarkets.xlsx
+#	new file:   Exercises/sql/sql_1.py
+#
