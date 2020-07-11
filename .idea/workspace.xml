@@ -2,32 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9347e4b-1e06-440e-8ea9-4eec51d46c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_website/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_website/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_website/runtime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_bookstore/frontend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_motion_detector/motion_detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_motion_detector/plotting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/runtime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/script1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_web_graph/templates/plot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/bokeh/practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/image_processing/open_cv_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/image_processing/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/image_processing/video_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/sql/database_credentials.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/sql/sql_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/tkinter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_geocoder/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_geocoder/frontend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_geocoder/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_geocoder/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_geocoder/templates/post_submit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_geocoder/templates/pre_submit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/send_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Data_collector/templates/success.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_website/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_website/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_web_graph/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8_web_graph/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,22 +39,22 @@
   <component name="ProjectId" id="1c2pk0QiGHmQIdoqGZ50fQpOG8v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/8_web_graph/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10_geocoder" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\10_geocoder" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\8_web_graph\templates" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\8_web_graph" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\Exercises\image_processing" />
+      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\4_website\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\6_motion_detector" />
       <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\Exercises\image_processing" />
       <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\4_website\static\css" />
       <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\2_webmap" />
-      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\2_webmap\pics" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\8_web_graph\templates" />
-      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\8_web_graph" />
-      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\Exercises\image_processing" />
-      <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\4_website\templates" />
       <recent name="C:\Users\ryan\PycharmProjects\10_apps_course\2_webmap\pics" />
     </key>
   </component>
@@ -79,7 +70,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.frontend">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_apps_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_Data_collector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_Data_collector/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="frontend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_apps_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_geocoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_geocoder/frontend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="10_apps_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,48 +155,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="motion_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="10_apps_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_motion_detector" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_motion_detector/motion_detector.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plotting" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="10_apps_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_motion_detector" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_motion_detector/plotting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="10_apps_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.frontend" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.plotting" />
-        <item itemvalue="Python.motion_detector" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +198,9 @@
       <updated>1589736681602</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

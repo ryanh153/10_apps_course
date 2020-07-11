@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<html lang="eng">
+<title> Geocoder </title>
+<body>
+<h1>Upload a csv file with an Address or address column name.</h1>
+<div class="message">
+   {{text | safe}}
+</div>
+<form action="{{url_for('post_submit')}}" method="POST" enctype="multipart/form-data">
+<input type="file" name="file"> <br>
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>
